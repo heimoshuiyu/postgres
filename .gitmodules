@@ -1,0 +1,6 @@
+[submodule "pgvector"]
+	path = pgvector
+	url = https://github.com/pgvector/pgvector
+[submodule "timescaledb"]
+	path = timescaledb
+	url = https://github.com/timescale/timescaledb
